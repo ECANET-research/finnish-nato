@@ -10,7 +10,7 @@ filename = '2022-02-10_2022-02-23'
 
 # Read network
 g = ig.Graph.Read_GraphML('../networks/nato_' + filename + '.xml')
-g.simplify(multiple = False, loops = False, combine_edges = None)
+g.simplify(multiple = False, loops = True, combine_edges = None)
 g.to_undirected(mode = "collapse", combine_edges = "sum")
 g = g.clusters().giant()
 g.write_graphml('../networks/nato_' + filename + '_gc.xml')
@@ -25,7 +25,7 @@ for i in range(20):
 	pv = {i:[] for i in range(g.vcount())}
 	n_iter = 50
 	for seed in range(n_iter):
-		pt = la.RBConfigurationVertexPartition(g, weights = g.es["weight"], resolution_parameter = 0.3)
+		pt = la.RBConfigurationVertexPartition(g, weights = g.es["weight"], resolution_parameter = 0.28)
 		la.Optimiser().set_rng_seed(seed)
 		la.Optimiser().optimise_partition(pt, n_iterations = -1)
 		for i in range(g.vcount()):

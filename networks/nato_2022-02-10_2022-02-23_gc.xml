@@ -11521,9 +11521,6 @@
     <edge source="n11" target="n115">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n130" target="n130">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n56" target="n142">
       <data key="e_weight">1</data>
     </edge>
@@ -11563,9 +11560,6 @@
     <edge source="n176" target="n192">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n192" target="n192">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n72" target="n196">
       <data key="e_weight">1</data>
     </edge>
@@ -11581,16 +11575,7 @@
     <edge source="n120" target="n205">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n206" target="n206">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n81" target="n210">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n210" target="n210">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n215" target="n215">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n115" target="n220">
@@ -11620,9 +11605,6 @@
     <edge source="n249" target="n263">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n263" target="n263">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n263" target="n267">
       <data key="e_weight">1</data>
     </edge>
@@ -11634,9 +11616,6 @@
     </edge>
     <edge source="n56" target="n283">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n288" target="n288">
-      <data key="e_weight">3</data>
     </edge>
     <edge source="n74" target="n290">
       <data key="e_weight">1</data>
@@ -11688,9 +11667,6 @@
     </edge>
     <edge source="n239" target="n318">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n318" target="n318">
-      <data key="e_weight">2</data>
     </edge>
     <edge source="n283" target="n324">
       <data key="e_weight">1</data>
@@ -11773,9 +11749,6 @@
     <edge source="n317" target="n402">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n402" target="n402">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n137" target="n403">
       <data key="e_weight">1</data>
     </edge>
@@ -11792,9 +11765,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n318" target="n413">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n414" target="n414">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n318" target="n421">
@@ -11828,9 +11798,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n288" target="n427">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n427" target="n427">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n426" target="n430">
@@ -11897,9 +11864,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n36" target="n494">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n495" target="n495">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n5" target="n496">
@@ -12169,16 +12133,10 @@
     <edge source="n335" target="n672">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n672" target="n672">
-      <data key="e_weight">2</data>
-    </edge>
     <edge source="n100" target="n676">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n638" target="n682">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n682" target="n682">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n33" target="n683">
@@ -12256,9 +12214,6 @@
     <edge source="n670" target="n693">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n693" target="n693">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n676" target="n701">
       <data key="e_weight">1</data>
     </edge>
@@ -12330,9 +12285,6 @@
     </edge>
     <edge source="n578" target="n723">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n723" target="n723">
-      <data key="e_weight">12</data>
     </edge>
     <edge source="n33" target="n725">
       <data key="e_weight">1</data>
@@ -12424,9 +12376,6 @@
     <edge source="n578" target="n754">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n754" target="n754">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n33" target="n755">
       <data key="e_weight">1</data>
     </edge>
@@ -12467,9 +12416,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n432" target="n779">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n779" target="n779">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n197" target="n780">
@@ -12640,9 +12586,6 @@
     <edge source="n353" target="n839">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n841" target="n841">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n26" target="n843">
       <data key="e_weight">1</data>
     </edge>
@@ -12668,9 +12611,6 @@
       <data key="e_weight">5</data>
     </edge>
     <edge source="n318" target="n845">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n846" target="n846">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n304" target="n849">
@@ -13402,9 +13342,6 @@
     <edge source="n830" target="n1027">
       <data key="e_weight">2</data>
     </edge>
-    <edge source="n1027" target="n1027">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n318" target="n1030">
       <data key="e_weight">1</data>
     </edge>
@@ -13772,9 +13709,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n309" target="n1145">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1145" target="n1145">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n331" target="n1146">
@@ -14305,9 +14239,6 @@
     <edge source="n329" target="n1291">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n1291" target="n1291">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n120" target="n1295">
       <data key="e_weight">1</data>
     </edge>
@@ -14390,9 +14321,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n898" target="n1334">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1334" target="n1334">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n72" target="n1336">
@@ -15160,9 +15088,6 @@
     <edge source="n1368" target="n1433">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n1433" target="n1433">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n980" target="n1434">
       <data key="e_weight">1</data>
     </edge>
@@ -15200,9 +15125,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n449" target="n1445">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1445" target="n1445">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1182" target="n1449">
@@ -15937,9 +15859,6 @@
     <edge source="n1563" target="n1571">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n1571" target="n1571">
-      <data key="e_weight">3</data>
-    </edge>
     <edge source="n511" target="n1572">
       <data key="e_weight">2</data>
     </edge>
@@ -15989,9 +15908,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1579" target="n1583">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1583" target="n1583">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n134" target="n1584">
@@ -16180,9 +16096,6 @@
     <edge source="n1585" target="n1595">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n1595" target="n1595">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n996" target="n1596">
       <data key="e_weight">1</data>
     </edge>
@@ -16346,9 +16259,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1370" target="n1606">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1606" target="n1606">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n392" target="n1607">
@@ -16764,9 +16674,6 @@
     </edge>
     <edge source="n1614" target="n1618">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1618" target="n1618">
-      <data key="e_weight">5</data>
     </edge>
     <edge source="n426" target="n1620">
       <data key="e_weight">1</data>
@@ -17476,9 +17383,6 @@
     <edge source="n403" target="n1729">
       <data key="e_weight">2</data>
     </edge>
-    <edge source="n1729" target="n1729">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n521" target="n1732">
       <data key="e_weight">1</data>
     </edge>
@@ -17765,9 +17669,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1721" target="n1781">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1781" target="n1781">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n176" target="n1782">
@@ -18559,9 +18460,6 @@
     <edge source="n1868" target="n1896">
       <data key="e_weight">2</data>
     </edge>
-    <edge source="n1896" target="n1896">
-      <data key="e_weight">5</data>
-    </edge>
     <edge source="n1082" target="n1897">
       <data key="e_weight">1</data>
     </edge>
@@ -18955,9 +18853,6 @@
     <edge source="n1946" target="n1953">
       <data key="e_weight">3</data>
     </edge>
-    <edge source="n1953" target="n1953">
-      <data key="e_weight">11</data>
-    </edge>
     <edge source="n301" target="n1958">
       <data key="e_weight">1</data>
     </edge>
@@ -19147,9 +19042,6 @@
     <edge source="n1303" target="n1978">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n1978" target="n1978">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n614" target="n1979">
       <data key="e_weight">1</data>
     </edge>
@@ -19176,9 +19068,6 @@
     </edge>
     <edge source="n1681" target="n1984">
       <data key="e_weight">2</data>
-    </edge>
-    <edge source="n1984" target="n1984">
-      <data key="e_weight">1</data>
     </edge>
     <edge source="n112" target="n1985">
       <data key="e_weight">1</data>
@@ -19343,9 +19232,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n959" target="n1995">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n1995" target="n1995">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1136" target="n1996">
@@ -19756,9 +19642,6 @@
     <edge source="n2009" target="n2010">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n2010" target="n2010">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n898" target="n2011">
       <data key="e_weight">2</data>
     </edge>
@@ -19914,9 +19797,6 @@
     </edge>
     <edge source="n675" target="n2041">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n2042" target="n2042">
-      <data key="e_weight">4</data>
     </edge>
     <edge source="n1616" target="n2043">
       <data key="e_weight">1</data>
@@ -20356,9 +20236,6 @@
     <edge source="n2087" target="n2099">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n2099" target="n2099">
-      <data key="e_weight">2</data>
-    </edge>
     <edge source="n996" target="n2100">
       <data key="e_weight">1</data>
     </edge>
@@ -20409,9 +20286,6 @@
     </edge>
     <edge source="n2083" target="n2112">
       <data key="e_weight">2</data>
-    </edge>
-    <edge source="n2112" target="n2112">
-      <data key="e_weight">1</data>
     </edge>
     <edge source="n402" target="n2113">
       <data key="e_weight">1</data>
@@ -20536,9 +20410,6 @@
     <edge source="n1953" target="n2130">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n2130" target="n2130">
-      <data key="e_weight">4</data>
-    </edge>
     <edge source="n1197" target="n2131">
       <data key="e_weight">1</data>
     </edge>
@@ -20561,9 +20432,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1891" target="n2134">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n2134" target="n2134">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n2003" target="n2135">
@@ -20720,9 +20588,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1681" target="n2148">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n2148" target="n2148">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n335" target="n2150">
@@ -21604,9 +21469,6 @@
     <edge source="n139" target="n2293">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n2293" target="n2293">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n2173" target="n2294">
       <data key="e_weight">1</data>
     </edge>
@@ -21953,9 +21815,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n2010" target="n2354">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n2356" target="n2356">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n331" target="n2358">
@@ -22686,9 +22545,6 @@
     </edge>
     <edge source="n2430" target="n2476">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n2476" target="n2476">
-      <data key="e_weight">2</data>
     </edge>
     <edge source="n600" target="n2479">
       <data key="e_weight">1</data>
@@ -23772,9 +23628,6 @@
     </edge>
     <edge source="n2298" target="n2604">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n2604" target="n2604">
-      <data key="e_weight">3</data>
     </edge>
     <edge source="n1571" target="n2605">
       <data key="e_weight">1</data>
@@ -25222,9 +25075,6 @@
     <edge source="n33" target="n2724">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n2724" target="n2724">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n100" target="n2726">
       <data key="e_weight">1</data>
     </edge>
@@ -25888,9 +25738,6 @@
     <edge source="n2731" target="n2799">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n2799" target="n2799">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n1618" target="n2800">
       <data key="e_weight">1</data>
     </edge>
@@ -26502,9 +26349,6 @@
     </edge>
     <edge source="n2755" target="n2850">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n2850" target="n2850">
-      <data key="e_weight">8</data>
     </edge>
     <edge source="n2030" target="n2852">
       <data key="e_weight">1</data>
@@ -28090,9 +27934,6 @@
     <edge source="n2401" target="n2921">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n2921" target="n2921">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n898" target="n2922">
       <data key="e_weight">1</data>
     </edge>
@@ -29197,9 +29038,6 @@
     <edge source="n2891" target="n3004">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3004" target="n3004">
-      <data key="e_weight">4</data>
-    </edge>
     <edge source="n1892" target="n3005">
       <data key="e_weight">1</data>
     </edge>
@@ -29818,9 +29656,6 @@
     <edge source="n2699" target="n3070">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3070" target="n3070">
-      <data key="e_weight">2</data>
-    </edge>
     <edge source="n1781" target="n3071">
       <data key="e_weight">1</data>
     </edge>
@@ -30369,9 +30204,6 @@
     </edge>
     <edge source="n2930" target="n3116">
       <data key="e_weight">3</data>
-    </edge>
-    <edge source="n3116" target="n3116">
-      <data key="e_weight">2</data>
     </edge>
     <edge source="n2860" target="n3117">
       <data key="e_weight">1</data>
@@ -30931,9 +30763,6 @@
     <edge source="n2221" target="n3140">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3140" target="n3140">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n2799" target="n3141">
       <data key="e_weight">1</data>
     </edge>
@@ -30987,9 +30816,6 @@
     </edge>
     <edge source="n1984" target="n3151">
       <data key="e_weight">3</data>
-    </edge>
-    <edge source="n3151" target="n3151">
-      <data key="e_weight">1</data>
     </edge>
     <edge source="n2864" target="n3154">
       <data key="e_weight">1</data>
@@ -31107,9 +30933,6 @@
     </edge>
     <edge source="n2719" target="n3164">
       <data key="e_weight">3</data>
-    </edge>
-    <edge source="n3164" target="n3164">
-      <data key="e_weight">7</data>
     </edge>
     <edge source="n301" target="n3165">
       <data key="e_weight">1</data>
@@ -31883,9 +31706,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n2921" target="n3217">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3217" target="n3217">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n3134" target="n3218">
@@ -32830,9 +32650,6 @@
     <edge source="n3236" target="n3244">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3244" target="n3244">
-      <data key="e_weight">15</data>
-    </edge>
     <edge source="n85" target="n3245">
       <data key="e_weight">1</data>
     </edge>
@@ -33281,9 +33098,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1868" target="n3263">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3263" target="n3263">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n156" target="n3264">
@@ -33813,9 +33627,6 @@
     </edge>
     <edge source="n3216" target="n3298">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3298" target="n3298">
-      <data key="e_weight">3</data>
     </edge>
     <edge source="n3113" target="n3299">
       <data key="e_weight">1</data>
@@ -34774,9 +34585,6 @@
     <edge source="n3259" target="n3358">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3358" target="n3358">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n318" target="n3359">
       <data key="e_weight">1</data>
     </edge>
@@ -34932,9 +34740,6 @@
     </edge>
     <edge source="n3303" target="n3364">
       <data key="e_weight">2</data>
-    </edge>
-    <edge source="n3364" target="n3364">
-      <data key="e_weight">1</data>
     </edge>
     <edge source="n2633" target="n3365">
       <data key="e_weight">1</data>
@@ -37042,9 +36847,6 @@
     <edge source="n3391" target="n3476">
       <data key="e_weight">2</data>
     </edge>
-    <edge source="n3476" target="n3476">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n1492" target="n3477">
       <data key="e_weight">1</data>
     </edge>
@@ -37709,9 +37511,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n3460" target="n3480">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3480" target="n3480">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n1605" target="n3481">
@@ -38806,13 +38605,7 @@
     <edge source="n2083" target="n3562">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3562" target="n3562">
-      <data key="e_weight">2</data>
-    </edge>
     <edge source="n578" target="n3563">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3563" target="n3563">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n426" target="n3564">
@@ -39877,9 +39670,6 @@
     <edge source="n3584" target="n3629">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3629" target="n3629">
-      <data key="e_weight">2</data>
-    </edge>
     <edge source="n408" target="n3630">
       <data key="e_weight">1</data>
     </edge>
@@ -39938,9 +39728,6 @@
       <data key="e_weight">2</data>
     </edge>
     <edge source="n3518" target="n3631">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3631" target="n3631">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n898" target="n3632">
@@ -40430,9 +40217,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n3594" target="n3668">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3668" target="n3668">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n2401" target="n3669">
@@ -42145,9 +41929,6 @@
     <edge source="n3699" target="n3715">
       <data key="e_weight">3</data>
     </edge>
-    <edge source="n3715" target="n3715">
-      <data key="e_weight">3</data>
-    </edge>
     <edge source="n830" target="n3716">
       <data key="e_weight">1</data>
     </edge>
@@ -42505,9 +42286,6 @@
     <edge source="n3715" target="n3735">
       <data key="e_weight">1</data>
     </edge>
-    <edge source="n3735" target="n3735">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n381" target="n3736">
       <data key="e_weight">1</data>
     </edge>
@@ -42578,9 +42356,6 @@
       <data key="e_weight">1</data>
     </edge>
     <edge source="n3528" target="n3744">
-      <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3744" target="n3744">
       <data key="e_weight">1</data>
     </edge>
     <edge source="n996" target="n3745">
@@ -43462,9 +43237,6 @@
     <edge source="n3679" target="n3815">
       <data key="e_weight">2</data>
     </edge>
-    <edge source="n3815" target="n3815">
-      <data key="e_weight">1</data>
-    </edge>
     <edge source="n1197" target="n3816">
       <data key="e_weight">1</data>
     </edge>
@@ -43569,9 +43341,6 @@
     </edge>
     <edge source="n3733" target="n3825">
       <data key="e_weight">1</data>
-    </edge>
-    <edge source="n3825" target="n3825">
-      <data key="e_weight">2</data>
     </edge>
     <edge source="n3" target="n3826">
       <data key="e_weight">2</data>
