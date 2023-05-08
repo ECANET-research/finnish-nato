@@ -1,6 +1,4 @@
 import pickle
-import numpy as np
-import pandas as pd
 import leidenalg as la
 import igraph as ig
 import graph_tool.all as gt
@@ -21,7 +19,7 @@ print('%d nodes and %d links in the giant component' % (g_gc.num_vertices(), g_g
 best_entropy = 1000000
 best_parts_dict = {}
 
-for i in range(20):
+for i in range(50):
 	pv = {i:[] for i in range(g.vcount())}
 	n_iter = 50
 	for seed in range(n_iter):
@@ -51,5 +49,5 @@ for i in range(20):
 
 print('Best entropy: %.2f' % best_entropy)
 
-with open('../networks/parts_before_leiden.pkl', 'wb') as fp:
+with open('../data/parts_before_leiden.pkl', 'wb') as fp:
 	pickle.dump(best_parts_dict, fp)
