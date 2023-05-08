@@ -6,7 +6,7 @@ Data and code for the paper [The Russian invasion of Ukraine selectively depolar
 - Retweet networks: Anonymized retweet networks for each period are stored as `.xml` files under the `networks` directory.
 
 ### Code
-- `code/parse_tweets.py`: Parses tweet data to create formatted data for subsequent analysis. (Note that the code needs to be tweaked for parsing rehydrated tweet data.)
+- `code/parse_tweets.py`: Parses tweet data to create formatted data for subsequent analysis. (Note that the code might need to be tweaked for parsing rehydrated tweet data.)
 - `code/cls_rt_network.py`: Partitions the retweet network in the _before_ period and assigns a cluster for each user in the _before_ network.
 - `code/vis_rt_network.py`: Plots the retweet networks.
 - `code/network_stats.py`: Analyzes the statistics of retweet networks, including the number of nodes (i.e., users) from each cluster that are active in each period, and the weight sum of edges (i.e., the number of retweets) that go between each pair of clusters in each period.
